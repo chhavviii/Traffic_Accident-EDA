@@ -36,7 +36,7 @@
     DecisionT.ipynb
 
   📌 Future Enhancements
- -Implement ensemble models (Random Forest, Gradient Boosting) to improve prediction accuracy.
- -Explore deep learning models for accident prediction.
- -Develop a dashboard for interactive data visualization.
- -Perform geospatial analysis to identify high-risk accident zones.
+   -Implement ensemble models (Random Forest, Gradient Boosting) to improve prediction accuracy.
+   -Explore deep learning models for accident prediction.
+   -Develop a dashboard for interactive data visualization.
+   -Perform geospatial analysis to identify high-risk accident zones.
