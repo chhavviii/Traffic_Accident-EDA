@@ -5,7 +5,10 @@
 ## 📌 Project Overview
  -  **Dataset:** Traffic Accident Dataset
  -  **Objective:** Analyze, preprocess, and apply Machine Learning models for regression
- -  **Tools Used:**  Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+
+## 🛠 Technologies Used
+  - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost)
+  - **Jupyter Notebook** for interactive analysis
 
 ## 📊 Exploratory Data Analysis (EDA)
  - Statistical summaries of dataset features
@@ -36,8 +39,11 @@
  # Decision Tree Regressor
     DecisionT.ipynb
 
-   📌 Future Enhancements
+ ##📌 Future Enhancements
   - Implement ensemble models (Random Forest, Gradient Boosting) to improve prediction accuracy.
   - Explore deep learning models for accident prediction.
   - Develop a dashboard for interactive data visualization.
   - Perform geospatial analysis to identify high-risk accident zones.
+
+ ## 📬 Contact
+   For any queries or suggestions, feel free to reach out!
