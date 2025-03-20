@@ -14,7 +14,7 @@
  ## 🏗️ Feature Engineering
   - Data Cleaning (handling missing values, duplicates)
   - Encoding categorical features(Label Encoding)
-  - Scalinf numerical features(StandardScaler)
+  - Scaling numerical features(StandardScaler)
   - Power Transformation for feature distribution normalization
 
 ## 🤖 Machine Learning Models Implemented
