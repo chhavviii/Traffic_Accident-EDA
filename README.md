@@ -1,6 +1,6 @@
 # Traffic_Accident-EDA
-# Traffic Accident Data Analyis & Machine Learning Models
-# This project focuses on analyzing the Traffic Accident dataset usin various data preprocessing and machine learning models.
+# Traffic Accident Data Analysis & Machine Learning Models
+# This project analyzes the Traffic Accident dataset using various data preprocessing and machine learning models.
 
 ## 📌 Project Overview
  -  **Dataset:** Traffic Accident Dataset
@@ -9,7 +9,7 @@
 
 ## 📊 Exploratory Data Analysis (EDA)
  - Statistical summaries of dataset features
- - Data visualization using histograms, pair plots, and correlation heatmaps
+ - Data visualization using histograms, pair plots, box plots, and correlation heatmaps
  - Feature selection and preprocessing
 
  ## 🏗️ Feature Engineering
@@ -22,7 +22,7 @@
   -  **Linear Regression** - `LR.ipynb`
   -  **Decision Tree** - `DecisionT.ipynb`
 
-## 📈  Performance Evalation
+## 📈  Performance Evaluation
   - Mean squared error
   - R² score
 
