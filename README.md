@@ -4,7 +4,7 @@
 ## 📌 Project Overview
  -  **Dataset:** Traffic Accident Dataset
  -  **Objective:** Analyze, preprocess, and apply Machine Learning models for regression
- -  **Tools Used:**  Python, Pandas, Numpy, MAatplotlib, Seaborn, Scikit-learn
+ -  **Tools Used:**  Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 
 ## 📊 Exploratory Data Analysis (EDA)
  - Statistical summaries of dataset features
