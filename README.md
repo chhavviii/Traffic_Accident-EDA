@@ -1,4 +1,5 @@
-# Traffic_Accident-Data Analyis & Machine Learning Models
+# Traffic_Accident-EDA
+# Traffic Accident Data Analyis & Machine Learning Models
 # This project focuses on analyzing the Traffic Accident dataset usin various data preprocessing and machine learning models.
 
 ## 📌 Project Overview
